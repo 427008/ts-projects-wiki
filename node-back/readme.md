@@ -1,4 +1,4 @@
-npm init --yes
+npm init --yes<br>
 npm i --save-dev typescript
 npm i --save-dev @types/node
 npm i --save-dev tslint
