@@ -6,7 +6,7 @@ https://typeorm.io/#/example-with-express <br>
 1*. from admin cmd run if not run before<br>
 npm install typeorm -g<br>
 2. from repository directory run<br>
-typeorm init --express --name MyProject --database mssql<br
+typeorm init --express --name MyProject --database mssql<br>
 3. tsconfig.json can be set to:<br>
 ```
 {
