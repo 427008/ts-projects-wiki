@@ -29,6 +29,7 @@ typeorm init --express --name MyProject --database mssql<br>
    ]
 }
 ```
+<br>
 4. package.json can be set to:<br>
 ```
 {
