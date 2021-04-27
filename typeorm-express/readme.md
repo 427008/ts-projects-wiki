@@ -1,4 +1,7 @@
-https://github.com/typeorm/typeorm#quick-start <br>
+just before step-by-step-guide: <br>
+https://github.com/typeorm/typeorm#step-by-step-guide <br>
+or <br>
+https://typeorm.io/#/example-with-express <br>
 
 1*. from admin cmd run if not run before<br>
 npm install typeorm -g 
