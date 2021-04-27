@@ -3,7 +3,7 @@ https://github.com/typeorm/typeorm#quick-start <br>
 1. from admin cmd run<br>
 npm install typeorm -g 
 2. from repository directory run<br>
-typeorm init --name "MyProject" --database mssql
+typeorm init --name MyProject --database mssql
 3. tsconfig.json can be set to:<br>
 ```
 {
