@@ -29,7 +29,6 @@ typeorm init --express --name MyProject --database mssql<br>
    ]
 }
 ```
-<br>
 4. package.json can be set to:<br>
 ```
 {
@@ -45,14 +44,14 @@ typeorm init --express --name MyProject --database mssql<br>
       "ts-node": "^9.1.1",
       "typescript": "^4.1.5"
 
-      // "@types/bcrypt": "^3.0.0",
-      // "@types/cors": "^2.8.9",
-      // "@types/helmet": "^4.0.0",
-      // "@types/jsonwebtoken": "^8.5.0",
-      // "bcrypt": "^5.0.0", https://github.com/kelektiv/node.bcrypt.js#readme
-      // "cors": "^2.8.5", https://github.com/expressjs/cors
-      // "helmet": "^4.4.1", https://helmetjs.github.io/
-      // "jsonwebtoken": "^8.5.1", https://github.com/auth0/node-jsonwebtoken#readme
+      -- "@types/bcrypt": "^3.0.0",
+      -- "@types/cors": "^2.8.9",
+      -- "@types/helmet": "^4.0.0",
+      -- "@types/jsonwebtoken": "^8.5.0",
+      -- "bcrypt": "^5.0.0", https://github.com/kelektiv/node.bcrypt.js#readme
+      -- "cors": "^2.8.5", https://github.com/expressjs/cors
+      -- "helmet": "^4.4.1", https://helmetjs.github.io/
+      -- "jsonwebtoken": "^8.5.1", https://github.com/auth0/node-jsonwebtoken#readme
 
    },
    "dependencies": {
