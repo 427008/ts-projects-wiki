@@ -73,4 +73,7 @@ typeorm init --express --name MyProject --database mssql
 5. run<br>
 npm i
 6. edit given sample files:<br>
-index.ts, routes.ts and routes/user.ts
+index.ts, routes.ts and<br>
+routes/user.ts<br>
+entity/User.ts<br>
+controller/UserController.ts
