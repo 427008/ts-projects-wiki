@@ -3,7 +3,7 @@ https://github.com/typeorm/typeorm#step-by-step-guide <br>
 or <br>
 https://typeorm.io/#/example-with-express <br>
 
-1. *from admin cmd run if not run before<br
+1. *from admin cmd run if not run before<br>
 npm install typeorm -g
 2. from repository directory run<br>
 typeorm init --express --name MyProject --database mssql
